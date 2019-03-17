@@ -2,7 +2,7 @@
 echo "execuntando script..."
 sleep 2
 user=`whoami`
-wget https://github.com/skyrocknroll/CH341SER_LINUX/archive/master.zip
+wget https://github.com/angeloplacebo/CH341SER_4linux/archive/master.zip
 unzip master.zip
 cd CH341SER_LINUX-master/
 sudo make
