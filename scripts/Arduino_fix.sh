@@ -14,5 +14,6 @@ sudo rm -R CH341SER_LINUX-master
 sleep 2
 echo "finalizado"
 echo "agora salve seus documentos abertos"
-echo "e reinicie seu computador"
-slepp 1
+echo "script by: @angeloplacebo"
+echo "reinicie seu computador para que as alterações tenham efeito"
+sleep 2
