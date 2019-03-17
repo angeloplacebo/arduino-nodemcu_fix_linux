@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "executando ..."
+echo "executando script..."
 user=`whoami`
 group=`groups|awk '{print $1}'`
 var1=`lsusb | grep Qin | awk '{print $6}' | awk -F ":" '{print $1}'`
