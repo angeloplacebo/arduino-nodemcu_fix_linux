@@ -6,3 +6,8 @@
   Digite os seguintes comando:
   - chmod +x nome_do_script
   - ./nome_do_script
+  
+  Referências:
+- https://steve.fi/Hardware/esp8266-basics/ 
+- https://www.arduino.cc/en/Guide/Troubleshooting#upload 
+- https://raw.githubusercontent.com/torvalds/linux/master/drivers/usb/serial/ch341.c 
